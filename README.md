@@ -7,11 +7,10 @@ Trouvaill is protfolio type of website where i would able to showcase some of my
 https://www.gomockingbird.com/projects/e0q0zs6/TnMd3U
 
 ## MVP: 
-To create trouvaill werbsite i will use HTML, CSS. JavaScript. and to style and animate the pages will use 
+To create trouvaill werbsite i will use HTML, CSS. JavaScript.Trouvaill will be responsive design that means going to be user friendly and easy to navigate.To style and animate the pages will use 
 - flex-box 
 - Gsap scroll magic
-- Curson animation
-Trouvaill will be responsive design that means going to be user friendly and easy to navigate.
+- Curson animation.
 
 
 ## Post-MVP: 
