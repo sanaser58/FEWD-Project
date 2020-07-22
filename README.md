@@ -13,7 +13,9 @@ https://www.gomockingbird.com/projects/e0q0zs6/TnMd3U
 To create trouvaill werbsite i will use HTML, CSS. JavaScript.Trouvaill will be responsive design that means going to be user friendly and easy to navigate.To style and animate the pages will use 
 - flex-box 
 - Gsap scroll magic
-- Curson animation.
+- Curson animation
+- Barba Page Transitions animation
+
 
 
 ## Post-MVP: 
